@@ -1,28 +1,20 @@
 ---
-title: Chicago Public Schools - Elementary School Attendance Boundaries SY1314
-created: '2020-11-10T16:54:56.218113'
-modified: '2020-11-10T16:54:56.218124'
+title: Chicago Public Schools - Elementary School Progress Report (2013-2014)
+created: '2020-11-10T16:55:26.791086'
+modified: '2020-11-10T16:55:26.791096'
 state: active
 type: dataset
 tags:
-  - '2013'
-  - '2014'
-  - Attendance
-  - Boundaries
   - Cps
-  - Gis
-  - Kml
-  - Kmz
-  - Map_layer
-  - Schools
-  - Shapefiles
+  - Education
+  - Report Cards
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/sege-i4a9/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/tj8h-mnuv/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/sege-i4a9/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/tj8h-mnuv/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Attendance boundaries for elementary schools in the Chicago Public Schools district for school year 2013-2014. Generally, all students in the applicable elementary school grades who live within one of these boundaries may attend the school. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.
+This dataset shows the 2013 School Progress Report Card data elements for each CPS elementary school. The report card is an annual summary of how the school is doing. For more information on the School Progress Report Cards, please see http://www.cps.edu/SCHOOLDATA/Pages/SchoolProgressReports.aspx
