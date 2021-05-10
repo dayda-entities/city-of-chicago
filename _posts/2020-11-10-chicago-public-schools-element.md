@@ -1,28 +1,29 @@
 ---
-title: Chicago Public Schools - Elementary School Attendance Boundaries SY0809
-created: '2020-11-10T16:54:32.894614'
-modified: '2020-11-10T16:54:32.894625'
+title: Chicago Public Schools - Elementary School Attendance Boundaries SY1920
+created: '2020-11-10T16:54:36.859622'
+modified: '2020-11-10T16:54:36.859632'
 state: active
 type: dataset
 tags:
-  - '2008'
-  - '2009'
+  - '2019'
+  - '2020'
   - Attendance
   - Boundaries
   - Cps
+  - Geo_layer
   - Gis
-  - Kml
-  - Kmz
-  - Map_layer
   - Schools
-  - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/48tf-ubnt/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/abk6-gwwr/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/48tf-ubnt/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/abk6-gwwr/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Attendance boundaries for elementary schools in the Chicago Public Schools district for school year 2008-2009. Generally, all students in the applicable elementary school grades who live within one of these boundaries may attend the school. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.
+Attendance boundaries for elementary schools in the Chicago Public Schools district for school year 2019-2020. Generally, all students in the applicable elementary school grades who live within one of these boundaries may attend the school.
+
+This dataset is in a forma​​t for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
+
+To export the data in either tabular or geographic format, please use the Export button on this dataset.
