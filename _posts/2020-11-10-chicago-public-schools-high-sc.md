@@ -1,28 +1,28 @@
 ---
-title: Chicago Public Schools - High School Attendance Boundaries SY1920
-created: '2020-11-10T16:54:47.579048'
-modified: '2020-11-10T16:54:47.579059'
+title: Chicago Public Schools - High School Attendance Boundaries SY1112
+created: '2020-11-10T16:55:21.645068'
+modified: '2020-11-10T16:55:21.645079'
 state: active
 type: dataset
 tags:
-  - '2019'
+  - '2011'
+  - '2012'
   - Attendance
   - Boundaries
   - Cps
-  - Geo_layer
   - Gis
+  - Kml
+  - Kmz
+  - Map_layer
   - Schools
+  - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/d95y-ue9h/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/sp5c-ihm9/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/d95y-ue9h/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/sp5c-ihm9/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Attendance boundaries for high schools in the Chicago Public Schools district for school year 2019-2020. Generally, all students in the applicable high school grades who live within one of these boundaries may attend the school.
-
-This dataset is in a forma​​t for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
-
-To export the data in either tabular or geographic format, please use the Export button on this dataset.
+Attendance boundaries for high schools in the Chicago Public Schools district for school year 2011-2012. Generally, all students in the applicable high school grades who live within one of these boundaries may attend the school. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.
