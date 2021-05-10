@@ -1,28 +1,27 @@
 ---
-title: Transportation Network Providers - Vehicles
-created: '2020-11-10T16:54:40.889995'
-modified: '2020-11-10T16:54:40.890005'
+title: Transportation Network Providers - Trips
+created: '2020-11-10T16:55:08.414827'
+modified: '2020-11-10T16:55:08.414838'
 state: active
 type: dataset
 tags:
+  - Link To Article Present
   - Rideshare
   - Tnp
   - Transportation
   - Transportation Network Provider
-  - Vehicles
+  - Trips
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/bc6b-sq4u/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/m6dm-c72p/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/bc6b-sq4u/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/m6dm-c72p/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-All vehicles reported by Transportation Network Providers (sometimes called rideshare companies) to the City of Chicago as part of routine reporting required by ordinance.  Inclusion of a vehicle in a monthly report indicates that the vehicle was eligible for trips in Chicago in that month for at least one day, regardless of whether it actually provided any rides. If a vehicle is eligible in multiple months, which is common, it will have records in each of these reporting months. 
+All trips, starting November 2018, reported by Transportation Network Providers (sometimes called rideshare companies) to the City of Chicago as part of routine reporting required by ordinance.
 
-As of the creation of this dataset, there have been four TNPs licensed to operate in Chicago, although never more than three at any given time and currently three. Vehicles reported by more than one company in the same month are combined and the MULTIPLE_TNPS column is marked as TRUE. However, the matching process is imperfect so not all such vehicles are necessarily identified.  
+Census Tracts are suppressed in some cases, and times are rounded to the nearest 15 minutes. Fares are rounded to the nearest $2.50 and tips are rounded to the nearest $1.00.
 
-Information on last inspection date was not required before September 2017 so will not be found in older records.  
-
-The reporting is done on a monthly basis, as indicated in the MONTH_REPORTED column. However, starting in 2018, the reports are batched and files for all three months in a quarter are delivered to the City of Chicago at the end of each quarter. Due to an issue in this transition, some vehicle records for Q2 2018 (April-June) were reported for the quarter as a whole, rather than for individual months. For purposes of this dataset, those records have been assigned to 2018-06 (June). Therefore, some caution in interpreting this month and the quarter as a whole is advised.
+For a discussion of the approach to privacy in this dataset, please see http://dev.cityofchicago.org/open%20data/data%20portal/2019/04/12/tnp-taxi-privacy.html.
