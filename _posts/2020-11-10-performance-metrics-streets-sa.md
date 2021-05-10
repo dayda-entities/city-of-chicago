@@ -1,22 +1,20 @@
 ---
-title: Performance Metrics - Streets & Sanitation - Sanitation Code Complaints
-created: '2020-11-10T16:54:27.086815'
-modified: '2020-11-10T16:54:27.086822'
+title: Performance Metrics - Streets & Sanitation - Tree Debris
+created: '2020-11-10T16:54:59.580601'
+modified: '2020-11-10T16:54:59.580608'
 state: active
 type: dataset
 tags:
-  - Complaints
-  - Garbage
   - Performance Metrics
-  - Sanitation
   - Service Delivery
+  - Trees
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/64yp-nqnb/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/hwpp-nx6b/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/64yp-nqnb/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/hwpp-nx6b/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Department of Streets and Sanitation (DSS) investigates and remedies reported violations of Chicago’s sanitation code. Residents may request service for violations such as overflowing dumpsters and garbage in the alley. This metric tracks the average number of days the DSS takes to complete sanitation code violation requests per week. Median days to complete requests as well as total number of requests fulfilled per week are available by mousing over columns. Currently the performance target for completing sanitation code violation requests is 3 days. For more information on sanitation code complaints, see https://data.cityofchicago.org/d/me59-5fac
+After extreme weather events, the Bureau of Forestry Tree Emergency is deployed to remove plant debris blocking or cluttering the public way. This metric tracks the average number of days the Department of Streets and Sanitation (DSS) takes to complete tree debris removal requests per week. Median days to complete requests as well as total number of requests fulfilled per week are also available by mousing over columns. The Department of Streets & Sanitation responds to emergency tree debris removal requests logged by 311’s Customer Service Requests (CSR) system. The target response time for Tree Debris Removal is 1 day. For more information on open tree debris removal requests, see https://data.cityofchicago.org/d/mab8-y9h3
