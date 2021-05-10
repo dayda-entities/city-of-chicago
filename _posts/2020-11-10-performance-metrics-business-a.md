@@ -1,9 +1,9 @@
 ---
 title: >-
-  Performance Metrics - Business Affairs & Consumer Protection - Limited
-  Business Licenses
-created: '2020-11-10T16:54:29.604272'
-modified: '2020-11-10T16:54:29.604283'
+  Performance Metrics - Business Affairs & Consumer Protection - Retail Food
+  Licenses
+created: '2020-11-10T16:55:30.545081'
+modified: '2020-11-10T16:55:30.545088'
 state: active
 type: dataset
 tags:
@@ -14,10 +14,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/7483-qiqw/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/uxj2-up34/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/7483-qiqw/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/uxj2-up34/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Limited Business Licenses (LBLs) are required for all Chicago businesses not specifically exempt from licensing requirements. This includes all business that provide services, or engage in office operations or general sales. Currently the performance target for processing Limited Business Licenses is 3 days.
+All restaurants and food stores selling perishable items are required to apply for a Retail Food License (RFL). This metric tracks the average number of days the Department of Business Affairs and Consumer Protection (BACP) takes to issue RFLs. The target response time for processing is within 15 days.
