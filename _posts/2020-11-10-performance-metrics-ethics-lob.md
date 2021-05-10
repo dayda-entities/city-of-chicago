@@ -1,7 +1,9 @@
 ---
-title: Performance Metrics - Ethics - Lobbyists Completing Ethics Training
-created: '2020-11-10T16:55:00.660905'
-modified: '2020-11-10T16:55:00.660912'
+title: >-
+  Performance Metrics - Ethics - Lobbyists Registrations and Activity Reports
+  Received, Reviewed and Made Available for Public Inspection
+created: '2020-11-10T16:55:10.625370'
+modified: '2020-11-10T16:55:10.625381'
 state: active
 type: dataset
 tags:
@@ -11,10 +13,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/i9uw-idjh/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/myh9-inim/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/i9uw-idjh/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/myh9-inim/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Number Of Lobbyists Completing Other Mandatory Or Voluntary Ethics Training
+Number Of Lobbyist Registrations And Activity Reports Received, Reviewed And Made Available For Public Inspection
