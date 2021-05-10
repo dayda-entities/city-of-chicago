@@ -1,7 +1,7 @@
 ---
-title: Tax Increment Financing (TIF) Annual Report - Projects
-created: '2020-11-10T16:54:29.428740'
-modified: '2020-11-10T16:54:29.428747'
+title: Tax Increment Financing (TIF) Annual Report - New Redevelopment Agreements
+created: '2020-11-10T16:54:33.934123'
+modified: '2020-11-10T16:54:33.934133'
 state: active
 type: dataset
 tags:
@@ -10,12 +10,12 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/72uz-ikdv/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/8zuz-r9gs/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/72uz-ikdv/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/8zuz-r9gs/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-A list of all active or completed projects or programs in a Redevelopment Project Area during the Reporting Year.
+A list of the new redevelopment agreements executed in the Reporting Year.
 
 For the detailed reports for each TIF district for each year, please see https://www.chicago.gov/city/en/depts/dcd/supp_info/tif-district-annual-reports-2004-present.html.
