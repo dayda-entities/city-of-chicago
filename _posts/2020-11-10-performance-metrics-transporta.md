@@ -1,19 +1,20 @@
 ---
-title: Performance Metrics - Transportation - Pavement Cave-ins
-created: '2020-11-10T16:54:51.571857'
-modified: '2020-11-10T16:54:51.571867'
+title: Performance Metrics - Transportation - Stop Sign Out
+created: '2020-11-10T16:54:59.684152'
+modified: '2020-11-10T16:54:59.684159'
 state: active
 type: dataset
 tags:
   - Performance Metrics
   - Service Delivery
+  - Signs
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/euee-qccq/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/hybd-quwr/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/euee-qccq/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/hybd-quwr/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-As underground drainage systems age, occasionally failures in the pipes and joints can cause pavement cave-ins.  The Department of Transportation (CDOT) responds to pavement cave-ins reported through 311’s Customer Service Requests (CSR) system on a case-by-case basis.  This metric tracks the average number of days CDOT takes to complete pavement cave-in repairs per week.  The target response time for pavement cave-ins is within 3 days.
+Due to vehicular accidents, theft and normal wear and tear, City stop signs occasionally need to be replaced or repaired.  The Department of Transportation (CDOT) responds to damaged or missing stop signs reported through 311’s Customer Service Requests (CSR) system on a case-by-case basis.  Total number of requests fulfilled per week is also available by mousing over columns.  Due to the public safety importance of stop signs, the target time to respond to stop sign requests is within 1 day.  To report a missing or damaged stop sign, call 311 or see http://www.cityofchicago.org/city/en/depts/cdot/provdrs/signs_and_pavementmarkings/svcs/stop_sign.html
