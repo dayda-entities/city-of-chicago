@@ -1,20 +1,22 @@
 ---
-title: Performance Metrics - Transportation - Stop Sign Out
-created: '2020-11-10T16:54:59.684152'
-modified: '2020-11-10T16:54:59.684159'
+title: Performance Metrics - Transportation - Pothole Repair
+created: '2020-11-10T16:55:21.947086'
+modified: '2020-11-10T16:55:21.947097'
 state: active
 type: dataset
 tags:
+  - Pavement
   - Performance Metrics
-  - Service Delivery
-  - Signs
+  - Pothole
+  - Service Requests
+  - Streets
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/hybd-quwr/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/sbt5-2ec8/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/hybd-quwr/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/sbt5-2ec8/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Due to vehicular accidents, theft and normal wear and tear, City stop signs occasionally need to be replaced or repaired.  The Department of Transportation (CDOT) responds to damaged or missing stop signs reported through 311’s Customer Service Requests (CSR) system on a case-by-case basis.  Total number of requests fulfilled per week is also available by mousing over columns.  Due to the public safety importance of stop signs, the target time to respond to stop sign requests is within 1 day.  To report a missing or damaged stop sign, call 311 or see http://www.cityofchicago.org/city/en/depts/cdot/provdrs/signs_and_pavementmarkings/svcs/stop_sign.html
+When moisture seeps into pavement, it expands when it freezes and contracts when it thaws.  This flexing of the pavement, combined with the melted water and the stress of vehicular traffic, causes pavement to deteriorate and potholes to form.  The Department of Transportation (CDOT) responds to potholes reported through 311’s Customer Service Requests (CSR) system by mapping open pothole requests each morning and routing crews in geographic clusters so as to fill as many potholes as possible per day.  This metric tracks the average number of days CDOT takes to complete pothole repairs per week.   Total number of requests fulfilled per week is also available by mousing over columns.  The target response time for pothole repairs is within 7 days.  For more information about pothole repairs, see CDOT’s pothole Frequently Asked Questions page: http://www.cityofchicago.org/content/dam/city/depts/cdot/PotholeFAQ_winter1011.pdf
