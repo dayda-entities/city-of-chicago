@@ -1,7 +1,7 @@
 ---
-title: Chicago Public Schools - Safe Passage Routes SY1415
-created: '2020-11-10T16:54:23.921788'
-modified: '2020-11-10T16:54:23.921798'
+title: Chicago Public Schools - Safe Passage Routes SY1314
+created: '2020-11-10T16:54:39.230606'
+modified: '2020-11-10T16:54:39.230617'
 state: active
 type: dataset
 tags:
@@ -9,15 +9,14 @@ tags:
   - Gis
   - Kml
   - Kmz
-  - Public Safety
   - Schools
   - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/t8dp-yzqg/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/rq9p-k3zy/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/t8dp-yzqg/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/rq9p-k3zy/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
