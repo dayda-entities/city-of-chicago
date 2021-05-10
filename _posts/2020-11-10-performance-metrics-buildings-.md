@@ -1,7 +1,9 @@
 ---
-title: Performance Metrics - Buildings - Time To Issue Green Permits
-created: '2020-11-10T16:55:38.737697'
-modified: '2020-11-10T16:55:38.737708'
+title: >-
+  Performance Metrics - Buildings - Time to Issue Standard Plan Review Program
+  Permits
+created: '2020-11-10T16:54:24.129410'
+modified: '2020-11-10T16:54:24.129422'
 state: active
 type: dataset
 tags:
@@ -9,14 +11,13 @@ tags:
   - Performance Metrics
   - Permits
   - Service Delivery
-  - Sustainability
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/z2qz-687z/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/4ygs-9x34/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/z2qz-687z/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/4ygs-9x34/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-As part of the City’s sustainability program, the Department of Buildings (DOB) offers expedited permitting for residential, commercial and industrial building projects that meet certain criteria. In addition to fast-tracking, projects achieving exceptional sustainability may be eligible for a fee waiver up to $25,000.  Projects that include green technologies (green roofs, rainwater harvesting, solar panels, solar thermal panels, wind turbine and geothermal systems) are required to be submitted through the Green Permit Program.  This metric tracks the average number of days DOB takes to process individual Green Permits, grouped by the week the permit was processed. The target average process time is within 71 days.
+The Department of Building (DOB) issues building permits to give individuals, insurance companies, neighbors and the City assurance that specific minimum standards are met in constructing, repairing or altering buildings by complying with the Chicago Building Code.  This metric tracks the average number of days DOB takes to process Standard Plan Review Program building permits, grouped by the week the permit was processed. The target process time is within 53 days. The Standard Plan Review Program is designed for small to mid-sized construction or renovation projects requiring drawings. Eligible projects include buildings up to 80 feet high, institutional or mercantile properties under 100,000 square feet, residential properties of up to 12 units, and foundations no deeper than 12 feet. For more information, go to http://www.cityofchicago.org/city/en/depts/bldgs/supp_info/overview_of_the_standardplanreviewpermitprogram.html.
