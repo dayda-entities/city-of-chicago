@@ -1,28 +1,20 @@
 ---
-title: Chicago Public Schools - High School Attendance Boundaries SY0809
-created: '2020-11-10T16:54:53.085744'
-modified: '2020-11-10T16:54:53.085756'
+title: Chicago Public Schools - High School Progress Report (2013-2014)
+created: '2020-11-10T16:54:16.996853'
+modified: '2020-11-10T16:54:16.996865'
 state: active
 type: dataset
 tags:
-  - '2008'
-  - '2009'
-  - Attendance
-  - Boundaries
   - Cps
-  - Gis
-  - Kml
-  - Kmz
-  - Map_layer
-  - Schools
-  - Shapefiles
+  - Education
+  - Report Cards
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/5mbh-yu9n/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/2m8w-izji/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/5mbh-yu9n/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/2m8w-izji/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Attendance boundaries for high schools in the Chicago Public Schools district for school year 2008-2009. Generally, all students in the applicable high school grades who live within one of these boundaries may attend the school. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.
+This dataset shows the 2013 School Progress Report Card data elements for each CPS high school. The report card is an annual summary of how the school is doing. For more information on the School Progress Report Cards, please see http://www.cps.edu/SCHOOLDATA/Pages/SchoolProgressReports.aspx
