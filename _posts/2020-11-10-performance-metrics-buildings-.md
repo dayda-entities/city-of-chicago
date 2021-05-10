@@ -1,7 +1,7 @@
 ---
-title: Performance Metrics - Buildings - Time to Issue Developer Services Permits
-created: '2020-11-10T16:55:01.417145'
-modified: '2020-11-10T16:55:01.417153'
+title: Performance Metrics - Buildings - Time To Issue Green Permits
+created: '2020-11-10T16:55:38.737697'
+modified: '2020-11-10T16:55:38.737708'
 state: active
 type: dataset
 tags:
@@ -9,13 +9,14 @@ tags:
   - Performance Metrics
   - Permits
   - Service Delivery
+  - Sustainability
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/ijdy-a94t/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/z2qz-687z/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/ijdy-a94t/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/z2qz-687z/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Developer Services Review Program is designed to meet the special needs of owners, developers, architects and contractors working on moderately- to highly-complex construction or renovation projects. Eligible projects include high-rise buildings, mercantile buildings with more than 150,000 square feet, other occupancies with more than 80,000 square feet, buildings with foundations deeper than 12 feet, and residential projects that contain more than 25 units. This metric tracks the average number of days DOB takes to process individual Developer Services Permits, grouped by the week the permit was processed. The target average process time is within 89 days. Click here for more information about DOB’s Developer Services Program.
+As part of the City’s sustainability program, the Department of Buildings (DOB) offers expedited permitting for residential, commercial and industrial building projects that meet certain criteria. In addition to fast-tracking, projects achieving exceptional sustainability may be eligible for a fee waiver up to $25,000.  Projects that include green technologies (green roofs, rainwater harvesting, solar panels, solar thermal panels, wind turbine and geothermal systems) are required to be submitted through the Green Permit Program.  This metric tracks the average number of days DOB takes to process individual Green Permits, grouped by the week the permit was processed. The target average process time is within 71 days.
