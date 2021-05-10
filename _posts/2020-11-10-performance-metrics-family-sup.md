@@ -1,9 +1,9 @@
 ---
 title: >-
-  Performance Metrics - Family & Support Services - Domestic Violence Service
-  Help Line Monthly Utilization
-created: '2020-11-10T16:54:58.391090'
-modified: '2020-11-10T16:54:58.391100'
+  Performance Metrics - Family & Support Services - Homeless Shelter System
+  Monthly Utilization
+created: '2020-11-10T16:55:32.175078'
+modified: '2020-11-10T16:55:32.175089'
 state: active
 type: dataset
 tags:
@@ -13,10 +13,11 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/hbuv-eka5/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/vg8w-2w9y/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/hbuv-eka5/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/vg8w-2w9y/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This metric tracks the number of domestic violence service calls received by the Domestic Violence Help Line per month. The city has developed a multi-layered response to the domestic violence crisis, including the Help Line, services provided by delegate agencies and services provided by advocates at our Community Service Centers. DFSS funds approximately 30 community based delegate agencies under the Family Violence Prevention Initiative to serve domestic violence victims and their children at programs located throughout Chicago.
+Homeless Shelter System Monthly Utilization
+This metric tracks the number of shelter beds used by individuals and families per month. Overnight shelters provide nightly shelter for individuals for up to 12 consecutive hours and do not serve families with children. Interim shelters house families and individuals for up to 120 days.  DFSS coordinates activities and funding to increase the availability of permanent and supportive housing services in Chicago. DFSS funds community based agencies that provide services to persons and families who are homeless or at imminent risk of homelessness so they can sustain safe and secure housing in the effort to achieve self-sufficiency.
