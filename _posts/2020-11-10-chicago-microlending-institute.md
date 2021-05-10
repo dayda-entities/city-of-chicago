@@ -1,7 +1,9 @@
 ---
-title: Chicago Microlending Institute (CMI) Microloans
-created: '2020-11-10T16:54:48.218713'
-modified: '2020-11-10T16:54:48.218723'
+title: >-
+  Chicago Microlending Institute (CMI) Microloans - Summary by Ethnicity and
+  Gender
+created: '2020-11-10T16:54:23.726785'
+modified: '2020-11-10T16:54:23.726792'
 state: active
 type: dataset
 tags:
@@ -17,10 +19,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/dpkg-upyz/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/4s8s-adbr/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/dpkg-upyz/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/4s8s-adbr/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-To improve access to capital, the City of Chicago seeded a $2MM revolving loan fund and partnered with Accion to create the Chicago Microlending Institute (CMI).  CMI helped train two new local microlenders, Chicago Neighborhood Initiatives (CNI) and Women’s Business Development Corporation (WBDC), to help connect small businesses around the city to affordable access to capital.  These microloans vary in size from $500 to $25,000 and the average loan size is around $10,000.  This dataset reflects the lender, location, business industry, and borrower demographics for small businesses supported by the City’s revolving loan fund. Certain data elements could not be included on a per-loan basis for privacy reasons but are summarized in the https://data.cityofchicago.org/id/4s8s-adbr dataset.
+To improve access to capital, the City of Chicago seeded a $2MM revolving loan fund and partnered with Accion to create the Chicago Microlending Institute (CMI). There is a full list of loans in the https://data.cityofchicago.org/id/dpkg-upyz dataset.  Certain data elements could not be included for privacy reasons but are summarized in this dataset.  Loans without a date are not included in the summary.
