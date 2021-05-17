@@ -1,27 +1,23 @@
 ---
-title: Chicago Public Schools - School Locations SY1011
-created: '2020-11-10T16:54:46.864013'
-modified: '2020-11-10T16:54:46.864025'
+title: Chicago Public Schools - School Progress Reports SY1617
+created: '2020-11-10T16:54:46.289848'
+modified: '2020-11-10T16:54:46.289862'
 state: active
 type: dataset
 tags:
-  - '2010'
-  - '2011'
-  - Attendance
+  - '2016'
+  - '2017'
   - Cps
-  - Gis
-  - Kml
-  - Kmz
-  - Map_layer
+  - Metrics
+  - Report Cards
   - Schools
-  - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/7xqa-efsz/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/cp7s-7gxg/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/7xqa-efsz/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/cp7s-7gxg/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Locations of educational units in the Chicago Public School District for school year 2010-2011. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth, are required.
+2016 school progress report ratings for all Chicago Public Schools.
