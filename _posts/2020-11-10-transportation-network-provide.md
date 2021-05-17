@@ -1,27 +1,26 @@
 ---
-title: Transportation Network Providers - Trips
-created: '2020-11-10T16:55:08.414827'
-modified: '2020-11-10T16:55:08.414838'
+title: Transportation Network Providers - Drivers
+created: '2020-11-10T16:55:03.109384'
+modified: '2020-11-10T16:55:03.109408'
 state: active
 type: dataset
 tags:
-  - Link To Article Present
+  - Drivers
   - Rideshare
   - Tnp
   - Transportation
   - Transportation Network Provider
-  - Trips
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/m6dm-c72p/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/j6wf-834c/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/m6dm-c72p/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/j6wf-834c/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-All trips, starting November 2018, reported by Transportation Network Providers (sometimes called rideshare companies) to the City of Chicago as part of routine reporting required by ordinance.
+All drivers reported by Transportation Network Providers (sometimes called rideshare companies) to the City of Chicago as part of the licensing process and routine reporting required by ordinance. Inclusion of a driver in a monthly report indicates that the driver was eligible for trips in Chicago in that month for at least one day, regardless of whether he or she actually provided any rides. If a driver is eligible in multiple months, which is common, he or she will have records in each of these reporting months. 
 
-Census Tracts are suppressed in some cases, and times are rounded to the nearest 15 minutes. Fares are rounded to the nearest $2.50 and tips are rounded to the nearest $1.00.
+As of the creation of this dataset, there have been four TNPs licensed to operate in Chicago, although never more than three at any given time and currently three. Drivers reported by more than one company in the same month are combined and the MULTIPLE_TNPS column is marked as TRUE. However, the matching process is imperfect so not all such drivers are necessarily identified. Similarly, matching between the licensing and routine reporting databases is imperfect, creating potential for occasional errors.
 
-For a discussion of the approach to privacy in this dataset, please see http://dev.cityofchicago.org/open%20data/data%20portal/2019/04/12/tnp-taxi-privacy.html.
+The reporting is done on a monthly basis, as indicated in the MONTH_REPORTED column. However, starting in 2018, the reports are batched and files for all three months in a quarter are delivered to the City of Chicago at the end of each quarter. Due to an issue in this transition, some vehicle records for Q2 2018 (April-June) were reported for the quarter as a whole, rather than for individual months. For purposes of this dataset, those records have been assigned to 2018-06 (June). Therefore, some caution in interpreting this month and the quarter as a whole is advised.
