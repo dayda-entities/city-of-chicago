@@ -1,26 +1,28 @@
 ---
-title: Chicago Public Schools - Elementary Geographic Networks
-created: '2020-11-10T16:54:20.231449'
-modified: '2020-11-10T16:54:20.231460'
+title: Chicago Public Schools - Elementary School Attendance Boundaries SY1112
+created: '2020-11-10T16:54:29.064760'
+modified: '2020-11-10T16:54:29.064770'
 state: active
 type: dataset
 tags:
+  - '2011'
+  - '2012'
+  - Attendance
   - Boundaries
   - Cps
   - Gis
   - Kml
   - Kmz
   - Map_layer
-  - Network
   - Schools
   - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/cwbp-97aa/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/hr9c-szde/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/cwbp-97aa/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/hr9c-szde/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-District-run elementary schools in CPS are organized into 13 Geographic Networks, which provide administrative support, strategic direction, and leadership development to the schools within each Network. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required
+Attendance boundaries for elementary schools in the Chicago Public Schools district for school year 2011-2012. Generally, all students in the applicable elementary school grades who live within one of these boundaries may attend the school. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.
