@@ -1,9 +1,9 @@
 ---
 title: >-
-  Performance Metrics - Business Affairs & Consumer Protection - Business
-  Licenses
-created: '2020-11-10T16:54:51.072929'
-modified: '2020-12-04T19:29:58.252993'
+  Performance Metrics - Business Affairs & Consumer Protection - Limited
+  Business Licenses
+created: '2020-11-10T16:54:29.604272'
+modified: '2020-11-10T16:54:29.604283'
 state: active
 type: dataset
 tags:
@@ -14,10 +14,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/emvs-38e6/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/7483-qiqw/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/emvs-38e6/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/7483-qiqw/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Business licenses and building permits are required to operate a business in Chicago or to ensure that a building construction project conforms to the minimum standards of the Chicago Building Code. Currently the performance target for processing most business license types is approximately 15 days.
+Limited Business Licenses (LBLs) are required for all Chicago businesses not specifically exempt from licensing requirements. This includes all business that provide services, or engage in office operations or general sales. Currently the performance target for processing Limited Business Licenses is 3 days.
