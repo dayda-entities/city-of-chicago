@@ -1,27 +1,30 @@
 ---
-title: Chicago Public Schools - Local School Council Voting Districts 2018-2020
-created: '2020-11-10T16:54:28.256688'
-modified: '2020-11-10T16:54:28.256699'
+title: Chicago Public Schools - Local School Council Voting Districts 2020-2022
+created: '2020-11-10T16:54:36.442361'
+modified: '2020-11-10T16:54:36.442371'
 state: active
 type: dataset
 tags:
-  - '2018'
   - '2019'
+  - '2020'
+  - '2021'
+  - '2022'
   - Boundaries
   - Cps
-  - District
-  - Election
+  - Geo_layer
   - Local School Council
-  - Map_layer
   - Schools
-  - Voting
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/rhea-z6jh/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/a3hw-pyw5/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/rhea-z6jh/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/a3hw-pyw5/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Local School Council voting districts for citywide and neighborhood public schools, intended to verify eligibility to run in LSC elections for 2018-2020. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ).
+Local School Council voting districts for citywide and neighborhood public schools, intended to verify eligibility to run in LSC elections for school year 2019-2020. The elections will take place in spring 2020, with those elected serving from 2020-2022.
+
+​​​​​This dataset is in a forma​​t for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
+
+To export the data in either tabular or geographic format, please use the Export button on this dataset.
