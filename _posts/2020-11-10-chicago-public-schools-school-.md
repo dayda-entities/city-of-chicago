@@ -1,27 +1,24 @@
 ---
-title: Chicago Public Schools - School Locations SY1112
-created: '2020-11-10T16:54:28.695739'
-modified: '2020-11-10T16:54:28.695747'
+title: Chicago Public Schools - School Profile Information SY2021
+created: '2020-11-10T16:54:31.992227'
+modified: '2020-11-10T16:54:31.992238'
 state: active
 type: dataset
 tags:
-  - '2011'
-  - '2012'
-  - Attendance
-  - Cps
-  - Gis
-  - Kml
-  - Kmz
-  - Map_layer
+  - '2020'
+  - '2021'
+  - Metrics
+  - Report Cards
   - Schools
-  - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/anck-gptm/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/83yd-jxxw/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/anck-gptm/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/83yd-jxxw/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Locations of educational units in the Chicago Public School District for school year 2011-2012. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth, are required.
+School profile information for all schools in the Chicago Public School district for the school year 2020-2021.
+
+* Data set is no longer being updated when data set for next year is created
