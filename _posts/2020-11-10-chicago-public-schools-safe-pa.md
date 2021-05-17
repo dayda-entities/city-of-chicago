@@ -1,23 +1,29 @@
 ---
-title: Chicago Public Schools - Safe Passage Routes SY1314
-created: '2020-11-10T16:54:39.230606'
-modified: '2020-11-10T16:54:39.230617'
+title: Chicago Public Schools - Safe Passage Routes SY1617
+created: '2020-11-10T16:54:51.882934'
+modified: '2020-11-10T16:54:51.882945'
 state: active
 type: dataset
 tags:
+  - '2016'
+  - '2017'
   - Cps
   - Gis
   - Kml
   - Kmz
+  - Map_layer
+  - Police
+  - Routes
+  - Safe Passage
   - Schools
   - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/rq9p-k3zy/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/uqb9-wr7e/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/rq9p-k3zy/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/uqb9-wr7e/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The safe passages program has been implemented to increase children’s safety as they come and go each day. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ), is required.
+Chicago Public Schools, in partnership with parents, the Chicago Police Department (CPD) and City of Chicago, has expanded the District's successful Safe Passage Program to provide safe routes to and from school every day for your child. This map presents the Safe Passage Routes specifically designed for designated schools during the 2016-2017 school year. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.
