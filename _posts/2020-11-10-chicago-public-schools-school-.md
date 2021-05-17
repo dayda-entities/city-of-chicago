@@ -1,27 +1,23 @@
 ---
-title: Chicago Public Schools - School Locations SY0708
-created: '2020-11-10T16:55:35.826613'
-modified: '2020-11-10T16:55:35.826621'
+title: Chicago Public Schools - School Admissions Information SY1718
+created: '2020-11-10T16:55:36.037397'
+modified: '2020-11-10T16:55:36.037408'
 state: active
 type: dataset
 tags:
-  - '2007'
-  - '2008'
-  - Attendance
+  - '2017'
+  - '2018'
   - Cps
-  - Gis
-  - Kml
-  - Kmz
-  - Map_layer
+  - Metrics
+  - Report Cards
   - Schools
-  - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/bud9-sp8g/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/xc8g-xha7/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/bud9-sp8g/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/xc8g-xha7/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Locations of educational units in the Chicago Public School District for school year 2007-2008. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth, are required.
+School admissions information for all Chicago Public Schools for the academic year 2017-2018.
