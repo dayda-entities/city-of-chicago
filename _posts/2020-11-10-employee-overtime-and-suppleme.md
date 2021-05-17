@@ -1,21 +1,20 @@
 ---
-title: Employee Overtime and Supplemental Earnings 2019
-created: '2020-11-10T16:55:02.286638'
-modified: '2020-11-10T16:55:02.286668'
+title: Employee Overtime and Supplemental Earnings 2013
+created: '2020-11-10T16:55:21.914575'
+modified: '2020-11-10T16:55:21.914588'
 state: active
 type: dataset
 tags:
-  - '2019'
   - Budget
   - Overtime
   - Supplemental Earnings
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/it3x-ckwv/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/s9zb-nuc6/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/it3x-ckwv/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/s9zb-nuc6/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Employee overtime and supplemental earnings by month and year-to-date.
+Employee overtime and supplemental earnings by month and year-to-date. Data Owner: Budget & Management. Time Period: January 2013 to present. Frequency: Data is updated monthly
