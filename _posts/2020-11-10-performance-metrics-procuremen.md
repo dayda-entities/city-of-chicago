@@ -1,20 +1,19 @@
 ---
-title: Performance Metrics - Procurement Services - City Auctions
-created: '2020-11-10T16:55:21.719632'
-modified: '2020-12-04T19:30:45.822552'
+title: Performance Metrics - Procurement Services - Task Order Request (TOR)
+created: '2020-11-10T16:55:11.914996'
+modified: '2020-12-04T19:30:28.154909'
 state: active
 type: dataset
 tags:
   - Performance Metrics
   - Procurement
-  - Revenue
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/s9wg-6is6/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/nfhf-cbk5/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/s9wg-6is6/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/nfhf-cbk5/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The City of Chicago auctions surplus equipment, vehicles, furniture, office equipment, and other goods and materials online in order to raise funds. The below graph provides weekly updates on progress toward the fundraising target of $4.6 million.
+The Department of Procurement (DPS) approves Task Order Requests (TOR), contracts for specific tasks or services to be provided to the City. The below graph displays the average time it takes the Department of Procurement to approve a TOR. The current target for approval time is within 7 days.
