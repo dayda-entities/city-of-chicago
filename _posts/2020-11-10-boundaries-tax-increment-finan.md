@@ -1,7 +1,7 @@
 ---
-title: Boundaries - Tax Increment Financing Districts (Deprecated December 2015)
-created: '2020-11-10T16:55:10.882738'
-modified: '2020-11-10T16:55:10.882745'
+title: Boundaries - Tax Increment Financing Districts (Deprecated December 2016)
+created: '2020-11-10T16:54:34.693184'
+modified: '2020-11-10T16:54:34.693191'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/2xxm-9stc/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/t23v-rqxr/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/2xxm-9stc/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/t23v-rqxr/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
