@@ -1,18 +1,17 @@
 ---
-title: FOIA Request Log - Cultural Affairs - Historical
-created: '2020-11-10T16:55:12.777914'
-modified: '2020-11-10T16:55:12.777924'
+title: FOIA Request Log - Cultural Affairs & Special Events
+created: '2020-11-10T16:55:01.651134'
+modified: '2020-12-04T19:30:12.448554'
 state: active
 type: dataset
-tags:
-  - Historical
+tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/npw8-6cq9/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/ikdf-ernx/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/npw8-6cq9/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/ikdf-ernx/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-FOIA requests received by Cultural Affairs from May 1, 2010 -  December 31, 2010;  for requests made after January 1, 2011, see Cultural Affairs & Special Events FOIA Request Log at https://data.cityofchicago.org/FOIA/FOIA-Request-Log-Cultural-Affairs-Special-Events/hv7d-ut55
+FOIA requests received by the Chicago Department of Cultural Affairs & Special Events (DCASE) as of January 1, 2011.
