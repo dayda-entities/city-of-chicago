@@ -1,22 +1,21 @@
 ---
 title: >-
-  Performance Metrics - Chicago Park District - Natural Resources Trees and
-  Shrubs
-created: '2020-11-10T16:54:46.162158'
-modified: '2020-11-10T16:54:46.162170'
+  Performance Metrics - Chicago Park District - Comptroller Accounts Payable
+  Aging
+created: '2020-11-10T16:55:15.658424'
+modified: '2020-11-10T16:55:15.658431'
 state: active
 type: dataset
 tags:
   - Parks
   - Performance Metrics
-  - Sustainability
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/cnj6-r3qn/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/q93p-dagd/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/cnj6-r3qn/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/q93p-dagd/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Department of Natural Resources (CDNR) was created in 2001 and is responsible for ensuring the quality of the district's 7,300 acres of land. Through enhanced landscape management, staff training and constant high quality maintenance, the department is quickly becoming the benchmark by which many municipal organizations measure the quality of their landscape and gardening. The data below represents the number of trees that were removed District-wide as well as the number of shrubs and trees that were pruned.
+The Office of the Comptroller consists of four divisions that provide financial services to the Parks: General Accounting, Accounts Payable, Accounts Receivable, Payroll and Quality Control. The data displayed below is in relation to the Accounts Payable division and represents the percentage of invoices that are paid  to vendors within 60 days of invoice data.
