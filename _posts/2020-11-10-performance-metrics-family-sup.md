@@ -1,9 +1,9 @@
 ---
 title: >-
-  Performance Metrics - Family & Support Services - Youth Services Program
+  Performance Metrics - Family & Support Services - Senior Services Nutrition
   Monthly Utilization
-created: '2020-11-10T16:55:36.134369'
-modified: '2020-11-10T16:55:36.134380'
+created: '2020-11-10T16:55:07.877165'
+modified: '2020-11-10T16:55:07.877177'
 state: active
 type: dataset
 tags:
@@ -13,15 +13,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/xczi-kmtf/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/m3we-umj3/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/xczi-kmtf/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/m3we-umj3/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This metric tracks the number of young people enrolled in youth services per month. DFSS is committed to creating a premier out-of-school time system that provides young people the opportunity to participate in high-quality, safe, and structured programs. DFSS funds over 200 Out-of-School Time (OST) programs that serve youth between the ages of 6 to 18 years across the city of Chicago in five types of programs: Academic/Vocational Support and Enrichment; Science, Computer, and Technology; Arts and Culture; Sports, Fitness, Health, and Nutrition; and Innovative. Missing: This dataset does not include additional OST programs supported by other city agencies such as the Chicago Park District, Chicago Public Schools, the Chicago Housing Authority, etc.
-•        Academic/Vocational Support and Enrichment - academic support, remedial education services, tutoring, literacy, and reconnecting youth with other educational opportunities
-•        Science, Computer, and Technology - skills building focused on computer programming, software, and technology
-•        Arts and Culture -  promoting excellence in the arts through access, awareness  and opportunities for creative expression, increased cultural awareness, and demonstrative skills  concluding with an event, play or exhibit
-•        Sports, Fitness, Health, and Nutrition - opportunities for physical activities and education that supports healthy choices and a positive lifestyle
-•        Innovative – opportunities for youth ages 13 to 15 and 16 to 18 that provide customized projects supporting skills building in areas such as  civic engagement, entrepreneurship, workforce development, and post-secondary education to prepare youth for the job market and life-long learning
+This metric tracks the number of congregate and home delivered meals provided to seniors per month. DFSS, Senior Services division is the city’s Area Agency on Aging for older adults. DFSS offers a wide variety of programs and services that address the diverse needs and interests of older adults in Chicago from those who are healthy and active to those who are frail and homebound.  The Congregate Dining Program strengthens social relationships while addressing the problem of poor nutrition among older adults. Each day Senior Services provides seniors with opportunities for nutritious meals, socialization, recreation, education and volunteer activities through approximately 60 co-sponsored congregate dining sites which annually serve over 20,000 senior residents. DFSS also provides over 11,000 frail homebound older adults with hot home delivered meals five days a week.
