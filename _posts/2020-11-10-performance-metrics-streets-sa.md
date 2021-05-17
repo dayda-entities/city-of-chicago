@@ -1,21 +1,22 @@
 ---
-title: Performance Metrics - Streets & Sanitation - Rodent Baiting
-created: '2020-11-10T16:54:56.428716'
-modified: '2020-11-10T16:54:56.428725'
+title: Performance Metrics - Streets & Sanitation - Sanitation Code Complaints
+created: '2020-11-10T16:54:27.086815'
+modified: '2020-11-10T16:54:27.086822'
 state: active
 type: dataset
 tags:
+  - Complaints
+  - Garbage
   - Performance Metrics
-  - Rats
-  - Rodents
+  - Sanitation
   - Service Delivery
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/ga2y-gwbs/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/64yp-nqnb/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/ga2y-gwbs/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/64yp-nqnb/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-In addition to performing regular scheduled preventative rodent control, the Department of Streets & Sanitation (DSS) responds to site-specific customer rat complaints logged through 311’s Customer Service Requests (CSR) system. This metric tracks the average number of days the DSS takes to complete rodent baiting requests per week. Median days to complete requests as well as total number of requests fulfilled per week are available by mousing over columns. The target response time for rodent baiting requests is within 7 days. For more information on open rat complaints, see https://data.cityofchicago.org/Government/311-Service-Requests-Rodent-Baiting-2011-/97t6-zrhs
+The Department of Streets and Sanitation (DSS) investigates and remedies reported violations of Chicago’s sanitation code. Residents may request service for violations such as overflowing dumpsters and garbage in the alley. This metric tracks the average number of days the DSS takes to complete sanitation code violation requests per week. Median days to complete requests as well as total number of requests fulfilled per week are available by mousing over columns. Currently the performance target for completing sanitation code violation requests is 3 days. For more information on sanitation code complaints, see https://data.cityofchicago.org/d/me59-5fac
