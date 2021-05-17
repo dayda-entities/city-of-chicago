@@ -1,7 +1,7 @@
 ---
-title: Boundaries - Zoning Districts (deprecated October 2016)
-created: '2020-11-10T16:55:25.265138'
-modified: '2020-11-10T16:55:25.265149'
+title: Boundaries - Zoning Districts (deprecated January 2016)
+created: '2020-11-10T16:55:38.647394'
+modified: '2020-11-10T16:55:38.647405'
 state: active
 type: dataset
 tags:
@@ -16,9 +16,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/xfyf-x4kx/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/nifi-zqag/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/xfyf-x4kx/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/nifi-zqag/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
