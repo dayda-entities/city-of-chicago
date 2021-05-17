@@ -1,12 +1,12 @@
 ---
-title: Chicago Public Schools - School Locations SY1415
-created: '2020-11-10T16:54:19.355083'
-modified: '2020-11-10T16:54:19.355094'
+title: Chicago Public Schools - School Locations SY1718
+created: '2020-11-10T16:54:21.827612'
+modified: '2020-11-10T16:54:21.827619'
 state: active
 type: dataset
 tags:
-  - '2014'
-  - '2015'
+  - '2017'
+  - '2018'
   - Attendance
   - Cps
   - Gis
@@ -18,10 +18,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/mntu-576c/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/d2h8-2upd/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/mntu-576c/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/d2h8-2upd/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Locations of educational units in the Chicago Public School District for school year 2014-2015. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth, are required.
+Locations of educational units in the Chicago Public School District for school year 2017-2018. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth, are required.
