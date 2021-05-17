@@ -1,25 +1,26 @@
 ---
-title: Boundaries - Special Service Areas (deprecated July 2017)
-created: '2020-11-10T16:54:26.248452'
-modified: '2020-11-10T16:54:26.248461'
+title: Boundaries - Special Service Areas (deprecated January 2020)
+created: '2020-11-10T16:54:34.599622'
+modified: '2020-11-10T16:54:34.599629'
 state: active
 type: dataset
 tags:
   - Boundaries
   - Deprecated
+  - Geo_layer
   - Gis
-  - Kml
-  - Kmz
-  - Map_layer
   - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/ite8-ribp/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/9fit-fndz/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/ite8-ribp/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/9fit-fndz/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-OUTDATED. See the current data at https://data.cityofchicago.org/d/kjav-iyuj -
- Special Service Areas (SSA) boundaries in Chicago. The Special Service Area program is a mechanism used to fund expanded services and programs through a localized property tax levy within contiguous industrial, commercial and residential areas. The enhanced services and programs are in addition to services and programs currently provided through the city. SSA-funded projects could include, but are not limited to, security services, area marketing and advertising assistance, promotional activities such as parades and festivals, or any variety of small scale capital improvements that could be supported through a modest property tax levy. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ).
+OUTDATED. See the current data at https://data.cityofchicago.org/d/kjav-iyuj -- Special Service Areas (SSA) boundaries in Chicago. The Special Service Area program is a mechanism used to fund expanded services and programs through a localized property tax levy within contiguous industrial, commercial and residential areas. The enhanced services and programs are in addition to services and programs currently provided through the city. SSA-funded projects could include, but are not limited to, security services, area marketing and advertising assistance, promotional activities such as parades and festivals, or any variety of small scale capital improvements that could be supported through a modest property tax levy.
+
+This dataset is in a forma​​t for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
+
+To export the data in either tabular or geographic format, please use the Export button on this dataset.
