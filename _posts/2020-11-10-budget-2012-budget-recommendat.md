@@ -1,20 +1,19 @@
 ---
-title: Budget - 2012 Budget Recommendations - Positions and Salaries
-created: '2020-11-10T16:55:18.973445'
-modified: '2020-11-10T16:55:18.973456'
+title: Budget - 2012 Budget Recommendations - Appropriations
+created: '2020-11-10T16:54:32.368707'
+modified: '2020-11-10T16:54:32.368717'
 state: active
 type: dataset
 tags:
   - '2012'
   - Budget
-  - Personnel
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/rdd7-bjqm/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/8dps-5d4x/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/rdd7-bjqm/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/8dps-5d4x/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This dataset includes recommended positions and salaries for 2012 by title (without names) and salary. The dataset is excerpted from the 2012 Budget Recommendations, which is the line-item budget proposed by the Mayor to the City Council for approval. Disclaimer: the “Total Budgeted Units” column displays either A) the number of employees AND vacancies associated with a given position, or B) the number of budgeted units (ie. hours/months) for that position. “Position Control” determines whether Total Budgeted Units column will count employees and vacancies or hours/months. If a Position Control is 1, then employees and vacancies are displayed; if a Position Control is 0, then the total number of hours/months recorded is displayed. Owner: Budget and Management. Frequency: Data is updated annually. For more information about the budget process, visit the Budget Documents page: http://j.mp/lPotWf.
+The dataset details 2012 Budget Recommendations, which is the line-item budget document proposed by the Mayor to the City Council for approval. Budgeted expenditures are identified by department, appropriation account, and funding type: Local, Community Development Block Grant Program (CDBG), and other Grants. “Local” funds refer to those line items that are balanced with locally-generated revenue sources, including but not limited to the Corporate Fund, Water Fund, Midway and O’Hare Airport funds, Vehicle Tax Fund, Library Fund and General Obligation Bond funds. Owner: Budget and Management. Frequency: Data is updated annually. For more information about the budget process, visit the Budget Documents page: http://j.mp/lPotWf.
