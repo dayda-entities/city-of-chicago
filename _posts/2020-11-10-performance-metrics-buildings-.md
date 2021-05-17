@@ -1,20 +1,21 @@
 ---
-title: Performance Metrics - Buildings - Time to Issue Easy Permits
-created: '2020-11-10T16:54:31.547897'
-modified: '2020-11-10T16:54:31.547903'
+title: Performance Metrics - Buildings - Time to Issue Developer Services Permits
+created: '2020-11-10T16:55:01.417145'
+modified: '2020-11-10T16:55:01.417153'
 state: active
 type: dataset
 tags:
   - Buildings
   - Performance Metrics
   - Permits
+  - Service Delivery
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/7ray-xvet/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/ijdy-a94t/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/7ray-xvet/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/ijdy-a94t/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Easy Permit Process allows home and building owners to obtain a permit to repair or replace the same or existing elements of a building, without making any changes to the structure of the building. Eligible projects include repairing or replacing drywall, flooring, fences, sheds or garages. This metric tracks the average number of days DOB takes to process individual Easy Permits, grouped by the week the permit was processed. The target process time is within 1.3 days. For more information about the Easy Permitting process, go to http://www.cityofchicago.org/city/en/depts/bldgs/provdrs/permit_proc.html.
+The Developer Services Review Program is designed to meet the special needs of owners, developers, architects and contractors working on moderately- to highly-complex construction or renovation projects. Eligible projects include high-rise buildings, mercantile buildings with more than 150,000 square feet, other occupancies with more than 80,000 square feet, buildings with foundations deeper than 12 feet, and residential projects that contain more than 25 units. This metric tracks the average number of days DOB takes to process individual Developer Services Permits, grouped by the week the permit was processed. The target average process time is within 89 days. Click here for more information about DOB’s Developer Services Program.
