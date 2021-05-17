@@ -1,20 +1,20 @@
 ---
-title: Performance Metrics - Streets & Sanitation - Tree Debris
-created: '2020-11-10T16:54:59.580601'
-modified: '2020-11-10T16:54:59.580608'
+title: Performance Metrics - Streets & Sanitation - Graffiti Removal
+created: '2020-11-10T16:55:15.916571'
+modified: '2020-11-10T16:55:15.916578'
 state: active
 type: dataset
 tags:
+  - Graffiti
   - Performance Metrics
   - Service Delivery
-  - Trees
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/hwpp-nx6b/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/qcfn-tiw7/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/hwpp-nx6b/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/qcfn-tiw7/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-After extreme weather events, the Bureau of Forestry Tree Emergency is deployed to remove plant debris blocking or cluttering the public way. This metric tracks the average number of days the Department of Streets and Sanitation (DSS) takes to complete tree debris removal requests per week. Median days to complete requests as well as total number of requests fulfilled per week are also available by mousing over columns. The Department of Streets & Sanitation responds to emergency tree debris removal requests logged by 311’s Customer Service Requests (CSR) system. The target response time for Tree Debris Removal is 1 day. For more information on open tree debris removal requests, see https://data.cityofchicago.org/d/mab8-y9h3
+The Department of Streets & Sanitation's (DSS) Graffiti Blasters crews offer a vandalism removal service to private property owners. This metric tracks the average number of days DSS takes to complete graffiti removal requests per week. Median days to complete requests as well as total number of requests fulfilled per week are available by mousing over columns. Currently the performance target for completing a graffiti removal request is 10 days. For more information on graffiti removal requests, see https://data.cityofchicago.org/d/hec5-y4x5
