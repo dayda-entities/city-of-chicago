@@ -1,23 +1,27 @@
 ---
-title: Chicago Public Schools - School Profile Information SY1718
-created: '2020-11-10T16:55:33.368058'
-modified: '2020-11-10T16:55:33.368065'
+title: Chicago Public Schools - School Locations SY1314
+created: '2020-11-10T16:54:57.594027'
+modified: '2020-11-10T16:54:57.594034'
 state: active
 type: dataset
 tags:
-  - '2017'
-  - '2018'
+  - '2013'
+  - '2014'
+  - Attendance
   - Cps
-  - Metrics
-  - Report Cards
+  - Gis
+  - Kml
+  - Kmz
+  - Map_layer
   - Schools
+  - Shapefiles
 groups:
   - Local Government
 csv_url: >-
-  https://data.cityofchicago.org/api/views/w4qj-h7bg/rows.csv?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/dgq3-i7xm/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://data.cityofchicago.org/api/views/w4qj-h7bg/rows.json?accessType=DOWNLOAD
+  https://data.cityofchicago.org/api/views/dgq3-i7xm/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-School profile information for all schools in the Chicago Public School district for the school year 2017-2018.
+Locations of educational units in the Chicago Public School District for school year 2013-2014. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth, are required.
